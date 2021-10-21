@@ -1,10 +1,10 @@
 ***english***
-- 👋 Hi, I’m @irsyadprisadi 10 yrs old
+- 👋 Hi, I’m @irsyadprisadi 11 yrs old
 - 👀 I’m interested in how do people create app
 - 🌱 I’m currently learning python
 
 ***Indo***
-- 👋 Hay, saya @irsyadprisadi umur 10 thn
+- 👋 Hay, saya @irsyadprisadi umur 11 thn
 - 👀 aku ingin tau cara orang-orang membuat aplikasi
 - 🌱 aku sedang belajar python
 
