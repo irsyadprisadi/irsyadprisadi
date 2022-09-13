@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning something
 
 ***Indo***
-- 👋 Hay, saya @irsyadprisadi umur 11 thn
+- 👋 Hay, saya @irsyadprisadi umur 12 thn
 - 🌱 aku sedang belajar sesuatu
 
 <!---
