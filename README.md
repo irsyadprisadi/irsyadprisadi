@@ -1,5 +1,5 @@
 ***english***
-- 👋 Hi, I’m @irsyadprisadi 11 yrs old
+- 👋 Hi, I’m @irsyadprisadi 12 yrs old
 - 🌱 I’m currently learning something
 
 ***Indo***
