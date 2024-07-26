@@ -1,10 +1,4 @@
-***english***
-- 👋 Hi, I’m @irsyadprisadi 12 yrs old
-- 🌱 I’m currently learning something
-
-***Indo***
-- 👋 Hay, saya @irsyadprisadi umur 12 thn
-- 🌱 aku sedang belajar sesuatu
+no
 
 <!---
 irsyadprisadi/irsyadprisadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
